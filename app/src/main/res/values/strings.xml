@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">MapBoxApp</string>
     <string name="access_token">pk.eyJ1Ijoid3N0cmlieSIsImEiOiJjajRjeTBib3EwZmhtMzNvOHdvbmNtYXc3In0.zjsrgXycjbOBHbgfd2oqXQ</string>
+    <string name="title_activity_location_component">LocationComponentActivity</string>
+    <string name="user_location_permission_explanation">test</string>
+    <string name="user_location_permission_not_granted">test_2</string>
 </resources>

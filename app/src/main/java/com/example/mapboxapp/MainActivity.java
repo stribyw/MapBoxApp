@@ -1,6 +1,10 @@
 package com.example.mapboxapp;
 
+import android.location.Location;
 import android.os.Bundle;
+
+import com.mapbox.android.core.location.LocationEngine;
+import com.mapbox.android.core.permissions.PermissionsManager;
 import com.mapbox.mapboxsdk.Mapbox;
 import com.mapbox.mapboxsdk.maps.MapView;
 import com.mapbox.mapboxsdk.maps.MapboxMap;

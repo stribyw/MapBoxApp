@@ -8,7 +8,10 @@
     <com.mapbox.mapboxsdk.maps.MapView
         android:id="@+id/mapView"
         android:layout_width="match_parent"
-        mapbox:mapbox_cameraZoom="12"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        mapbox:mapbox_cameraZoom="10"
+        mapbox:mapbox_cameraTargetLat="45.373124"
+        mapbox:mapbox_cameraTargetLng="-121.696000"
+        />
 
 </FrameLayout>
